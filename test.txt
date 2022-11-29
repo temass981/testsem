@@ -1,7 +1,13 @@
 Haaaalo
 
 и еще раз хало
+<<<<<<< HEAD
 sdfsdfs
 asdasd
 
 asd
+=======
+фыв
+вфывф
+явфыв
+>>>>>>> second
